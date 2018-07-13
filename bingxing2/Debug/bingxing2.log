@@ -1,0 +1,5 @@
+﻿  psrs_mpi.cpp
+d:\vscase\bingxing2\bingxing2\psrs_mpi.cpp(45): warning C4101: “sendDisp”: 未引用的局部变量
+d:\vscase\bingxing2\bingxing2\psrs_mpi.cpp(45): warning C4101: “recvDisp”: 未引用的局部变量
+  bingxing2.vcxproj -> D:\vsCase\bingxing2\Debug\bingxing2.exe
+  bingxing2.vcxproj -> D:\vsCase\bingxing2\Debug\bingxing2.pdb (Full PDB)
